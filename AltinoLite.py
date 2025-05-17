@@ -14,7 +14,7 @@ speed = 0
 connectstate = 0
 ser = serial.Serial() #B
 ser.baudrate = 115200 #Bluetooth serial baudrate
-port='com3'
+port='com9'
 
 ser.timeout = 2000
 
